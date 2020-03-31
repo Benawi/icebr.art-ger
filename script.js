@@ -49,6 +49,12 @@
     }
 
     let animals = {
+        "Guppy": "Guppy",
+        "Tilapia": "Tilapia",
+        "Bitterling": "Bitterling",
+        "Arapaima": "Arapaima",
+        "Arowana": "Arowana",
+        "Piranha": "Piranha",
         "Pale Chub": "Döbel",
         "Crucian Carp": "Karausche",
         "Dace": "Hasel",
@@ -84,7 +90,7 @@
         "Angelfish": "Skalar",
         "Betta": "Kampffisch",
         "Neon Tetra": "Neonsalmer",
-        "Rainbowfisch": "Regenbogenfisch",
+        "Rainbowfish": "Regenbogenfisch",
         "Dorado": "Lachssalmler",
         "Gar": "Knochenhecht",
         "Saddled Bichir": "Flösselhecht",
