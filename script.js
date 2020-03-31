@@ -213,5 +213,6 @@
         var animal = tds[2];
         var place = tds[4];
         place.innerHTML = places[place.innerHTML];
+        animal.innerHTML = animals[animal.innerHTML];
     }
 })();
