@@ -139,7 +139,7 @@
         "Monarch Butterfly": "Monarchfalter",
         "Emperor Butterfly": "Himmelsfalter",
         "Agrias Butterfly": "Agrias-Falter",
-        "Raja Brooke's Birdwing": "Troides brookiana",
+        "Rajah Brooke's Birdwing": "Troides brookiana",
         "Queen Alexandra's Birdwing": "Vogelfalter",
         "Moth": "Motte",
         "Atlas Moth": "Atlasspinner",
